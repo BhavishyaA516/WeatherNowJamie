@@ -1,4 +1,5 @@
-# WeatherNow
+# WeatherNowJamie
+
 
 ![Weather App](./imgs/Output.jpg)
 
