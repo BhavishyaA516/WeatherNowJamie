@@ -1,6 +1,6 @@
 # WeatherNow
 
-![Weather App](./imgs/ss.png)
+![Weather App](./imgs/Output.jpg)
 
 
 ## Introduction
