@@ -17,7 +17,7 @@ WeatherNow is a simple and intuitive web application that allows users to get cu
 
 ## Demo
 
-You can check out a live demo of the application [here](https://rushil-weathernow.netlify.app/).
+You can check out a live demo of the application [here](https://weathernowjamie.netlify.app/).
 
 ## Technologies Used
 
@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/RushilJalal/WeatherNow.git
+    git clone https://github.com/BhavishyaA516/WeatherNowJamie.git
     cd Weather_Now
     ```
 
