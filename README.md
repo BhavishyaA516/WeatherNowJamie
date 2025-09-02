@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed on your system:
 
     ```sh
     git clone https://github.com/RushilJalal/WeatherNow.git
-    cd WeatherNow
+    cd Weather_Now
     ```
 
 2. **Install Dependencies**
@@ -74,7 +74,7 @@ Before you begin, ensure you have the following installed on your system:
 
 4. **Open in Browser**
 
-    Open your browser and navigate to `http://localhost:3000` to see the application in action.
+    Open your browser and navigate to `http://localhost:5173` to see the application in action.
 
 
 
